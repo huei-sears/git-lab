@@ -106,5 +106,70 @@ Untracked files:
 
 Answer 6:
 
+On branch master
 
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   README.md
+        new file:   answers.md
+
+
+Answer 7:
+
+On branch master
+nothing to commit, working tree clean
+
+
+Answer 8:
+
+commit 6f521cb9eda381c28fe839b7b519423b3e6fcb5c (HEAD -> master)
+Author: Huei Sears <hs549118@ohio.edu>
+Date:   Thu May 16 15:03:16 2019 -0400
+
+    Initial commit
+
+
+
+Answer 9:
+
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+
+Answer 10:
+
+The changes online are not reflected in my local copy.
+
+
+Answer 11:
+
+To https://github.com/huei-sears/git-lab.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/huei-sears/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+Answer 12:
+
+The changes online are now reflected in my local copy.
+
+
+Answer 13:
+
+./  ../  .git/  .gitignore  README.md
 
